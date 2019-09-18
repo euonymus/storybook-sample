@@ -45,5 +45,10 @@
     "react-test-renderer": "^16.9.0",
     "require-context.macro": "^1.2.1",
     "storybook-chromatic": "^2.2.2"
+  },
+  "bit": {
+    "env": {},
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
   }
 }
